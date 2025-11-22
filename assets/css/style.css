@@ -1,0 +1,24 @@
+body{
+  background-image: url('../../assets/img/bck.gif');background-repeat: no-repeat;
+  background-attachment:inherit;
+  background-size: cover;
+  background-color:#1a2b30;
+  font-family: "Pixelify Sans", sans-serif;
+}
+.texto   {color: #32cfb5;background-color:rgb(135, 17, 137, 0.3);
+font-family: "Pixelify Sans", sans-serif;
+}
+
+iframe{border:2px solid tomato;}
+
+div{
+  width:100%;
+  display:inline-flexbob;
+  background-color:rgb(135, 17, 137, 0.3);
+  border-color: #1d8876;  
+  border:4px; ;
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:250px;
+  font-style: normal;
+}
